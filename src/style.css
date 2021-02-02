@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'JetBrainsMono';
+    src: url('./JetBrainsMono-Regular.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+  }
+
+.hello {
+    color: red;
+    font-family: 'JetBrainsMono';
+    background: url('./icon.png');
+}
